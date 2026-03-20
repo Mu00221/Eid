@@ -150,6 +150,9 @@ const EidCelebration = () => {
         <p className="text-[0.6rem] text-stone-400/40 tracking-widest uppercase">
           ✦ from our hearts to yours ✦
         </p>
+        <p className="text-[0.6rem] text-stone-400/40 tracking-widest uppercase">
+          -Mustafa Hussaini-
+        </p>
       </main>
 
       {/* Custom styles for animations and font */}
